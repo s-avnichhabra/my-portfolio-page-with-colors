@@ -1,0 +1,17 @@
+.header{
+    background-color: #ffffff; 
+     display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color:#000080; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color: #008000; 
+    display: flex;
+    justify-content: flex-end;
+   
+}
